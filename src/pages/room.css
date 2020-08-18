@@ -1,0 +1,12 @@
+.video-mute-icon.end-call {
+  background-color: red !important;
+  cursor: pointer;
+}
+
+.video-mute-icon {
+  cursor: pointer;
+}
+
+.mute-icon {
+  cursor: pointer;
+}

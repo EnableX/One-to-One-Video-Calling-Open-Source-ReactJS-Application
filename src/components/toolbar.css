@@ -1,0 +1,9 @@
+#chat-tag {
+  display: none;
+  /* left: 25px; */
+}
+
+.mute-icon,
+.video-mute-icon {
+  position: relative;
+}
