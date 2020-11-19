@@ -15,11 +15,10 @@ This basic 1-to-1 Video Chat Application is developed using ReactJS, HTML, CSS, 
 When developing a Client End Point Application, make sure to include the updated EnxRtc.js.
 
 
-## 2. Demo
+## 2. Trial
 
-Visit Demo Zone (https://portal.enablex.io/demo-zone/) to request a Guided Demo or Demo Access to different type of application available there.
-
-You may also try our Video Meeting and Webinar solutions here: https://enablex.io/vcfree
+Try a quick Video Call: https://try.enablex.io/ 
+Sign up for a free trial https://portal.enablex.io/cpaas/trial-sign-up/
 
 
 ## 3 Available Scripts
