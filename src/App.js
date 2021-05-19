@@ -6,15 +6,14 @@ import {
 } from "react-router-dom";
 
 import Room from "./pages/Room";
-import Home from "./pages/Home";
-import "./App.css";
+import Login from "./pages/Login";
 function App() {
   return (
     <Router>
       <div>
         <Switch>
           <Route exact path="/">
-            <Home />
+            <Login />
           </Route>
           <Route path="/room/:token" children={<Room />} />
         </Switch>

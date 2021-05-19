@@ -1,3 +1,5 @@
+@import url("../App.css");
+
 .video-mute-icon.end-call {
   background-color: red !important;
   cursor: pointer;

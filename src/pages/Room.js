@@ -225,7 +225,6 @@ export default function Room(props) {
     }
 
     return (
-
         <div>
             <div className="layout">
                 <div id="overlay" style={{ 'display': 'none' }}>
