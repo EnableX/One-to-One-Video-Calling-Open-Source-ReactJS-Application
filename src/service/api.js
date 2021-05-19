@@ -1,5 +1,5 @@
 
-const BASE_API_URL = 'https://saas-wireframe.vcloudx.com/interview/';
+const BASE_API_URL = ''; // your application server URL
 
 
 const fetchOptions = {
