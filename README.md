@@ -29,15 +29,15 @@ This sample client application also demonstrates the following features:
 
 #### 1.1.1 App Id and App Key
 
-* Create a free account on EnableX  [https://portal.enablex.io/cpaas/trial-sign-up/] 
+* Create a free account on EnableX  [https://www.enablex.io/free-trial/] 
 * Create your Project
 * Get the App ID and App Key generated against the Project
 
 
 #### 1.1.2 Requirement
 
-* Check your browser compatibility with EnableX [https://developer.enablex.io/video/browser-compatibility-of-enablex-video/]
-* Download latest copy of Web SDK (EnxRtc.js) [https://developer.enablex.io/wp-content/uploads/EnxRtc.js.v1.9.3.zip?ver=1.9.3] and replace client/js/EnxRtc.js 
+* Check your browser compatibility with EnableX [https://developer.enablex.io/docs/quickstart/video/browser-compatibility/index/]
+* Download latest copy of Web SDK (EnxRtc.js) [https://developer.enablex.io/downloads/EnxRtc.js.v2.3.30.zip] and replace client/js/EnxRtc.js 
 * Install all project modules. Run `npm install` 
 * Install the project package dependencies. Run `yarn install` 
 
@@ -101,7 +101,7 @@ As the EnableX test server has been configured for demonstration purpose only, i
 * Conduct a single session with a duration lesser than 10 minutes. 
 * Host a multiparty call with less than 3 participants. 
 
-Refer to the **Demo App Server** [https://developer.enablex.io/video/sample-code/#demo-app-server] for more information.   
+Refer to the **Demo App Server** [https://developer.enablex.io/docs/guides/video-guide/sample-codes/video-calling-app/] for more information.   
 
 Once you have successfully tested your application on the test server, you can set up your application server as explained in section 1.1.4 above. 
 
@@ -133,9 +133,9 @@ In addition to the features demonstrated in this sample program, the SDK has man
 
 And many more such exciting features. 
 
-Read **Web Toolkit Documentation** [https://www.enablex.io/developer/video-api/client-api/web-toolkit/]  for more details.  
+Read **Web Toolkit Documentation** [https://developer.enablex.io/docs/references/sdks/video-sdk/web-sdk/index/]  for more details.  
 
-**Download Web Toolkit** [https://www.enablex.io/developer/video/downloads/] to get the latest version of Web SDK. 
+**Download Web Toolkit** [https://developer.enablex.io/downloads/EnxRtc.js.v2.3.30.zip] to get the latest version of Web SDK. 
 
 
 
